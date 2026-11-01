@@ -9,14 +9,14 @@
 Paste a decklist, pick the art for every card, and export a print-ready PDF, a
 print-shop package or an MPC Autofill XML — without leaving your computer.
 
-[![CI](https://github.com/AdrianJimenezSantiago/mtg-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/AdrianJimenezSantiago/mtg-forge/actions/workflows/ci.yml)
-[![Release](https://github.com/AdrianJimenezSantiago/mtg-forge/actions/workflows/release.yml/badge.svg)](https://github.com/AdrianJimenezSantiago/mtg-forge/releases)
-[![Latest release](https://img.shields.io/github/v/release/AdrianJimenezSantiago/mtg-forge?label=download)](https://github.com/AdrianJimenezSantiago/mtg-forge/releases/latest)
+[![CI](https://github.com/Ajimsan2096/mtg-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ajimsan2096/mtg-forge/actions/workflows/ci.yml)
+[![Release](https://github.com/Ajimsan2096/mtg-forge/actions/workflows/release.yml/badge.svg)](https://github.com/Ajimsan2096/mtg-forge/releases)
+[![Latest release](https://img.shields.io/github/v/release/Ajimsan2096/mtg-forge?label=download)](https://github.com/Ajimsan2096/mtg-forge/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-555)
 
-[**Download**](https://github.com/AdrianJimenezSantiago/mtg-forge/releases/latest) ·
+[**Download**](https://github.com/Ajimsan2096/mtg-forge/releases/latest) ·
 [Features](#features) ·
 [Getting started](#getting-started) ·
 [Print shops](#sending-a-deck-to-a-print-shop) ·
@@ -97,7 +97,7 @@ Moxfield · Archidekt · Deckstats · TappedOut · MTGGoldfish · CubeCobra · S
 
 ### Windows executable (recommended)
 
-1. Download the `.zip` from the [latest release](https://github.com/AdrianJimenezSantiago/mtg-forge/releases/latest).
+1. Download the `.zip` from the [latest release](https://github.com/Ajimsan2096/mtg-forge/releases/latest).
 2. Extract it anywhere.
 3. Run `MPC-Forge.exe`.
 
@@ -110,7 +110,7 @@ variable to use a different port.
 Requires Python 3.11 or later.
 
 ```bash
-git clone https://github.com/AdrianJimenezSantiago/mtg-forge.git
+git clone https://github.com/Ajimsan2096/mtg-forge.git
 cd mtg-forge
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
@@ -135,7 +135,7 @@ Node.js is **not** required: the compiled frontend assets are committed in
 Every time it starts, the app checks for a newer version if there is an internet
 connection, and installs it before opening:
 
-- **Executable.** It asks GitHub for the [latest release](https://github.com/AdrianJimenezSantiago/mtg-forge/releases/latest)
+- **Executable.** It asks GitHub for the [latest release](https://github.com/Ajimsan2096/mtg-forge/releases/latest)
   (a new one is published after every green push to `main`). If it is newer, it
   downloads the package for your platform, verifies its checksum, replaces the
   program files and opens again with the new version. The `user-settings/`

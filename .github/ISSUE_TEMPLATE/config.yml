@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Security vulnerability
-    url: https://github.com/AdrianJimenezSantiago/mtg-forge/security/advisories/new
+    url: https://github.com/Ajimsan2096/mtg-forge/security/advisories/new
     about: Report it privately, please.

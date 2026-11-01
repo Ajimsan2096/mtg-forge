@@ -37,7 +37,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-REPO = "AdrianJimenezSantiago/mtg-forge"
+REPO = "Ajimsan2096/mtg-forge"
 LATEST_RELEASE_API = f"https://api.github.com/repos/{REPO}/releases/latest"
 
 NO_UPDATE_ENV = "MPC_FORGE_NO_UPDATE"

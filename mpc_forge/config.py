@@ -15,7 +15,7 @@ APP_AUTHOR: Literal[False] = False
 MOXFIELD_USER_AGENT = "MPC-Forge/0.1 (personal-proxy-tool; contact: local)"
 
 SCRYFALL_USER_AGENT = (
-    f"MPC-Forge/{__version__} (+https://github.com/AdrianJimenezSantiago/mtg-forge)"
+    f"MPC-Forge/{__version__} (+https://github.com/Ajimsan2096/mtg-forge)"
 )
 SCRYFALL_API = "https://api.scryfall.com"
 

@@ -22,6 +22,6 @@ network. In that mode:
 ## Reporting a vulnerability
 
 Please do not open a public issue. Use GitHub's
-[private vulnerability reporting](https://github.com/AdrianJimenezSantiago/mtg-forge/security/advisories/new)
+[private vulnerability reporting](https://github.com/Ajimsan2096/mtg-forge/security/advisories/new)
 with the steps to reproduce and the version affected. You will get an answer
 within a week.
